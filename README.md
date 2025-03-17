@@ -2,7 +2,7 @@
 2. Make sure you also have your resources from Canvas
 
 Starting the echo Demo
-1. 
+
 In Directory:
 ~\Chatroom_v1\Server
 Start the server by running:
